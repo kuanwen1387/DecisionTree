@@ -275,7 +275,7 @@
 	)
 )
 
-;;Could not figure out to recursively build nested list
+;;Create tree
 (defun createTree ()
 	(let ((tempAtt nil)
 		(tempVal nil)
